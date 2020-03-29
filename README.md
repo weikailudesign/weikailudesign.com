@@ -1,2 +1,2 @@
-# weikailudesign.github.io
+# weikailudesign
 GitHub Pages
